@@ -29,7 +29,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
 # 📥 Clona el Repositorio
 bash
 
-    git clone https://github.com/
+    git clone https://github.com/AngieCaroP/Challenge-Conversor-de-Monedas
 
 ##  🛠️ Abre el Proyecto en IntelliJ IDEA
 Abre IntelliJ IDEA.
